@@ -48,10 +48,10 @@
 [continuar]
 
 ### "Is this IMRT or VMAT or 3D-CRT?"
-[Explicar como inferir a técnica a partir do Beam Sequence, Control Points, MLC behavior — esta é a pergunta mais frequente]
+
 
 ## 4. Extracting basic information — code example
-[Quando você estiver em casa, adicionar bloco Python rodável aqui]
+
 
 ## 5. Pitfalls
 - VMAT vs IMRT representation differences

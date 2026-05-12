@@ -9,7 +9,7 @@
 - Pitfalls when reading plans from different TPS
 
 ## 1. Clinical meaning
-[Escrever 2-3 parágrafos: o que é um plano de radioterapia, por que ele existe como objeto separado, quem o cria (TPS) e quem o consome (R&V system, linac)]
+
 
 ## 2. The skeleton — high-level structure
 [Diagrama mental:
